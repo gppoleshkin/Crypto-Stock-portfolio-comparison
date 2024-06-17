@@ -37,7 +37,7 @@ Comparison of two portfolios of cryptocurrencies and stocks, calculating their c
 ![image](https://github.com/gppoleshkin/Crypto-Stock-portfolio-comparison/assets/150899409/7f84d0ae-7be0-46c3-8020-c9fef0ae8839)
 
 
-3) Доходность портфелей положительно коррелирует между собой, оба портфеля коррелируют с индексом, но корреляция портфеля из акций более выражена
+2) Доходность портфелей положительно коррелирует между собой, оба портфеля коррелируют с индексом, но корреляция портфеля из акций более выражена
 
 ![image](https://github.com/gppoleshkin/Crypto-Stock-portfolio-comparison/assets/150899409/7d7ca45f-03e6-4327-872b-c1542f76194a)
 
