@@ -32,7 +32,7 @@ Comparison of two portfolios of cryptocurrencies and stocks, calculating their c
 
 Гипотеза оказалась подтвержденной
 
-1) Фактическая доходность портфелей (графике выше) превышает их ожидаемую на рассматриваемом периоде (2020-2023)
+1) Фактическая доходность портфелей (график выше) превышает их ожидаемую на рассматриваемом периоде (2020-2023)
 
 ![image](https://github.com/gppoleshkin/Crypto-Stock-portfolio-comparison/assets/150899409/7f84d0ae-7be0-46c3-8020-c9fef0ae8839)
 
